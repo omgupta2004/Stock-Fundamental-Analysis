@@ -24,26 +24,6 @@ Using 20 years of data (2005-2024), I built correlation matrices and regression 
 - Python 3.8 or higher
 - Basic understanding of statistics and finance
 
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/Stock-Fundamental-Analysis.git
-cd Stock-Fundamental-Analysis
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the analysis:
-```bash
-python stock_analysis.py
-```
-
-The script will generate all output files in the current directory.
-
 ##  Methodology
 
 ### Data Collection
