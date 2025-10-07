@@ -1,0 +1,6 @@
+Company,R_Squared,Adj_R_Squared,RMSE,Sample_Size,Top_Var_1,Top_Var_2,Top_Var_3
+TCS,0.5259182649571668,0.35660335958472633,842.2195710157479,20,pat_growth,pat_margin_change,sales_growth
+INFY,0.294284188080691,0.04224282668093782,414.67206184133533,20,pat_growth,pat_margin_change,ebitda_growth
+HCLTECH,0.6265235482632896,0.49313910121446447,268.84714146421305,20,sales_growth,ebitda_margin_change,ebitda_growth
+WIPRO,0.24626892066296135,-0.02292075052883802,61.630603159584744,20,sales_growth,ebitda_growth,pat_margin_change
+TECHM,0.14942530259656495,-0.17771881178937177,369.4206710557154,19,pat_margin_change,pat_growth,ebitda_growth
